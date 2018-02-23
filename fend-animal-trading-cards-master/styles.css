@@ -1,0 +1,35 @@
+/* add your CSS here */
+h3{
+	margin-left: 15px;
+}
+.dog-img{
+	width: 300px;
+	margin-left: 15px;
+	border-radius: 5px
+}
+ul{
+	list-style: none;
+	margin-left: -38px;
+}
+body{
+	width: 330px;
+	/*border: solid #CCC;*/
+	box-shadow: 7px 7px #ccc;	
+	border-radius: 5px;	
+}
+.card{
+	background-color: #1021ccc2;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 5px;
+}
+.subpart{
+	border: solid #999;
+	border-width: 1px;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-top: 5px;
+
+	padding: 5px;
+	
+}
